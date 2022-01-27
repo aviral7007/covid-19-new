@@ -55,10 +55,6 @@ export const CovidTrakerInnerContainer = styled.div`
 export const HeaderBar = styled.h3`
 color:white;
 font-size:30px;
-
-`
-export const Image = styled.img`
-width:flex;
 `
 export const SearchBar = styled.input`
 width: 40%;

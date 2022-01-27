@@ -18,8 +18,8 @@ import {
   ContentBox,
   Content1,
   Menucontainer,
-  Image
-  // Container
+ 
+  
 
 } from "./style";
 
